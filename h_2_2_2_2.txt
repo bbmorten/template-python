@@ -1,3 +1,4 @@
+hostname router2
 
 interface Ethernet0/0
  ip address 2.2.2.2 255.255.255.0
